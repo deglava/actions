@@ -1,5 +1,4 @@
-name: Super-Linter
-
+name: Lint code base
 
 on: push
 
